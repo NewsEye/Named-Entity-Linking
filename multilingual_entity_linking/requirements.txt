@@ -10,4 +10,4 @@ tqdm
 spacy
 torch
 unidecode
-tensorflow==1.4
+tensorflow==2.9.3
